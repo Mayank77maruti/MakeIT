@@ -1,0 +1,16 @@
+{
+  "name": "mern-realtime-whiteboard-sharing-app-backend",
+  "version": "1.0.0",
+  "description": "this the backend for mern realtime white board sharing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayank mohapatra",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
